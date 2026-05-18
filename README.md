@@ -10,7 +10,7 @@ investigation. The question is not whether the model performs well or poorly, bu
 pattern of performance reveals about the model's internals.
 
 This project is part of a larger sequential modelling project:
-[seq-models — sequential modelling portfolio](https://github.com/Dorcas-Joy-Kahunguka/sequence-modelling)
+[sequential modelling ](https://github.com/Dorcas-Joy-Kahunguka/sequence-modelling)
 
 ---
 
